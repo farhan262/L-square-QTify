@@ -15,6 +15,7 @@ function Card() {
           </div>
         </div>
       </div>
+
       <div className={styles.titlewrapper}>
         <p>Music</p>
       </div>
